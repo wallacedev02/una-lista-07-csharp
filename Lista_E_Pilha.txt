@@ -1,0 +1,5 @@
+--> Pilha: Uma pilha é uma estrutura de dados que segue o princípio "último a entrar, primeiro a sair" (LIFO - Last-In, First-Out).
+Isso significa que o último elemento adicionado à pilha é o primeiro a ser removido.
+
+
+--> Lista: Uma lista é uma estrutura de dados que armazena uma coleção ordenada de elementos, onde cada elemento tem uma posição específica.
